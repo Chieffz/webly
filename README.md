@@ -1,1 +1,2 @@
-# gumi heko
+# gumi 
+help
